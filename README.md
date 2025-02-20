@@ -1,2 +1,2 @@
 # API-nodejs
-A simple API with node.js
+A simple API exercise with node.js👌
